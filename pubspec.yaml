@@ -12,7 +12,7 @@ dependencies:
 
 flutter:
   assets:
-    - assets/voomp/icons
-    - assets/stoodi/images
-    - assets/voomp/icons
-    - assets/stoodi/images
+    - assets/voomp/images/
+    - assets/voomp/icons/
+    - assets/stoodi/images/
+    - assets/stoodi/icons/
